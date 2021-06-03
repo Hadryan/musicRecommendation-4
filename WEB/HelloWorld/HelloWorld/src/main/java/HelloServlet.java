@@ -10,11 +10,15 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import com.sun.net.httpserver.Filter;
+
 import dataAccessLayer.EmbeddedNeo4j;
 
-/**
- * Servlet implementation class HelloServlet
- */
+
+//INGRESAR CANCIONES
+
+
+
 @WebServlet("/HelloServlet")
 public class HelloServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
@@ -49,26 +53,54 @@ public class HelloServlet extends HttpServlet {
         		out.println("<header>");
 			        out.println("<h3>SUGERIR NUEVA MUSICA PARA EXPANDIR BASE DE DATOS</h3>");
 			        out.println("<br>");
-			
-			        String nombre = request.getParameter("nombre");
-			        String cantante = request.getParameter("cantante");
-			        String ano = request.getParameter("ano");
-			        String genero = request.getParameter("genero");
-			        String album = request.getParameter("album");
 			        
-			        if(nombre != null && cantante != null && ano != null && genero != null && album != null) {
-			        	
-			        	 try ( EmbeddedNeo4j greeter = new EmbeddedNeo4j( "bolt://localhost:7687", "neo4j", "OnikaTanya10!" ) )
+			        HTMLFilter filtro = new HTMLFilter();
+			        
+			        String nombre1 = request.getParameter("nombre");
+			        String cantante1 = request.getParameter("cantante");
+			        String ano = request.getParameter("ano");
+			        String genero1 = request.getParameter("genero");
+			        String album1 = (request.getParameter("album"));
+			        
+			        
+			        if(nombre1 == null || cantante1 == null || ano == null || genero1 == null || album1 == null) {
+			        	out.println("Por favor ingrese informacion.");
+			        }else {
+			        	try ( EmbeddedNeo4j greeter = new EmbeddedNeo4j( "bolt://localhost:7687", "neo4j", "OnikaTanya10!" ) )
 				        {
-						 	LinkedList<String> myactors = greeter.getActors();
+					        String nombre = nombre1.substring(0, 1).toUpperCase() + nombre1.substring(1);
+					        String cantante = cantante1.substring(0, 1).toUpperCase() + cantante1.substring(1);
+					        String genero = genero1.substring(0, 1).toUpperCase() + genero1.substring(1);
+					        String album = album1.substring(0, 1).toUpperCase() + album1.substring(1);
+					        
+					        int year4 = Integer.parseInt(ano);
+					        
+					        if(genero.equals("Indie") || genero.equals("Blues") || genero.equals("Rock") || genero.equals("Metal") || genero.equals("Pop") || genero.equals("Rap") || genero.equals("Country") || genero.equals("Punk") || genero.equals("Trap")) {
+					        	if(year4 > 1999 && year4 < 2022) {
+					        		String a = greeter.printGreeting(album,nombre, cantante , genero, ano);
+								 	out.println("<br>");
+								 	out.println(a);
+								 	out.println("<br>");
+					        	}else {
+					        		out.println("<br>");
+								 	out.println("El año ingresado no esta disponible. ");
+								 	out.println("<br>");
+					        	}
+					        	
+					        }else {
+					        	out.println("<br>");
+							 	out.println("El genero ingresado no esta disponible. ");
+							 	out.println("<br>");
+					        }
+
+					        
 						 	
-						 	for (int i = 0; i < myactors.size(); i++) {
-						 		 out.println(myactors.get(i));
-						 	}
-				        	
+
 				        } catch (Exception e) {
 							// TODO Auto-generated catch block
-				        	out.println("Por favor ingrese informacion.");
+				        	out.println("<br>");
+				        	out.println("Por favor ingrese informacion correcta o regrese al inicio.");
+				        	out.println("<br>");
 							e.printStackTrace();
 						}
 			        	
@@ -78,8 +110,7 @@ public class HelloServlet extends HttpServlet {
 			        	out.println("</butt>");
 			        	out.println("<br>");
 			        	out.println("<br>");
-			        }else {
-			        	out.println("Por favor ingrese informacion.");
+			    
 			        }
 			        
 			        

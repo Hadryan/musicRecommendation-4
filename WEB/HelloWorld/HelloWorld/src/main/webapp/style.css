@@ -83,6 +83,9 @@ article h2 {
 article p {
 	
 }
+table, th, td {
+  border: 2px;
+}
 main section {
 	
 }

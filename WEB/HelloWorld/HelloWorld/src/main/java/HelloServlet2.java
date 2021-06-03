@@ -54,36 +54,7 @@ public class HelloServlet2 extends HttpServlet {
 
 
 			        String ano = request.getParameter("ano");
-			        String genero = request.getParameter("genero");
-			        
-			        if(ano == null || genero == null) 
-			        {
-			        	out.println("Por favor ingrese informacion.");
-			        	 
-			        }else {
-			        	try ( EmbeddedNeo4j greeter = new EmbeddedNeo4j( "bolt://localhost:7687", "neo4j", "OnikaTanya10!" ) )
-				        {
-						 	LinkedList<String> myactors = greeter.getActors(genero, ano);
-						 	
-						 	for (int i = 0; i < myactors.size(); i++) {
-						 		 out.println(myactors.get(i));
-						 	}
-				        	
-				        } catch (Exception e) {
-							// TODO Auto-generated catch block
-				        	out.println("Por favor ingrese informacion correcta o regrese al inicio.");
-							e.printStackTrace();
-						}
-			        	
-			        	out.println("<br>");
-			        	out.println("<butt>");
-			        	out.println("<a href='index.html'>Regresar a Inicio</a>");
-			        	out.println("</butt>");
-			        	out.println("<br>");
-			        	out.println("<br>");
-			    
-			        }
-			        
+			        String genero1 = request.getParameter("genero");
 			        
 			        out.println("<P>");
 			        out.print("<form action=\"");
@@ -106,8 +77,89 @@ public class HelloServlet2 extends HttpServlet {
 			        out.println("<br>");
 			        out.println("<br>");
 			        
+			        if(ano == null && genero1 == null) 
+			        {
+			        	out.println("Por favor ingrese informacion.");
+			        	 
+			        }else {
+			        	try ( EmbeddedNeo4j greeter = new EmbeddedNeo4j( "bolt://localhost:7687", "neo4j", "OnikaTanya10!" ) )
+				        {
+			        		out.println("<center>");
+			        		out.println("<font face='calibri' size='3' color='#ffffff'>");
+			        		out.println("<table border = \"2\" style=\"color:white; border:3px solid #ffffff\">");
+					        out.println("<tr style=\"color:white; border:2px solid #ffffff\"><td style=\"color:white; border:2px solid #ffffff\">CANCIÓN</td><td  style=\"color:white; border:2px solid #ffffff\">ARTISTA(S)</td><td style=\"color:white; border:2px solid #ffffff\">AÑO</td></tr>");
+					        out.println("</font>");
+					        out.println("<font face='calibri' size='3' color='#ffffff'>");
+					        
+					        int year4 = Integer.parseInt(ano);
+					      
+					        String genero = genero1.substring(0, 1).toUpperCase() + genero1.substring(1);
+					        
+					        
+					        if(genero.equals("Indie") || genero.equals("Blues") || genero.equals("Rock") || genero.equals("Metal") || genero.equals("Pop") || genero.equals("Rap") || genero.equals("Country") || genero.equals("Punk") || genero.equals("Trap")) {
+					        	if(year4 > 1999 && year4 < 2022) {
+					        		
+					        		LinkedList<String> myactors = greeter.getActors(genero, ano);
+								 	
+								 	int pos1 = 0;
+								 	int pos2 = 0;
+								 	for (int i = 0; i < myactors.size(); i++) {
+								 		String temp = myactors.get(i);
+								 		for (int j = 4; j < temp.length(); j++)
+								        {
+								            String t = temp.substring(j-4, j);
+								            if(t.equals("n.Ar"))
+								            {
+								                pos1 = j-4; 
+								            }
+								        }
+								 		for (int j = 4; j < temp.length(); j++)
+								        {
+								            String t = temp.substring(j-4, j);
+								            if(t.equals("n.Añ"))
+								            {
+								                pos2 = j-4; 
+								            }
+								        }
+								 		String temp1 = temp.substring(17, pos1-3);
+								 		String temp2 = temp.substring(pos1+12, pos2-3);
+								 		String temp3 = temp.substring(pos2 + 7, temp.length()-2);
+								 		out.println("<tr style=\"color:white; border:2px solid #ffffff\"><td  style=\"color:white; border:2px solid #ffffff\">"+ temp1 + "</td><td  style=\"color:white; border:2px solid #ffffff\">" + temp2+ "</td><td style=\"color:white; border:2px solid #ffffff\">"+ temp3+"</td></tr>");
+								 	}
+								 	
+					        	}else {
+					        		out.println("<br>");
+								 	out.println("El año ingresado no esta disponible. ");
+								 	out.println("<br>");
+					        	}
+					        	
+					        }else {
+					        	out.println("<br>");
+							 	out.println("El genero ingresado no esta disponible. ");
+							 	out.println("<br>");
+					        }
+					        
+						 	
+				        	
+				        } catch (Exception e) {
+							// TODO Auto-generated catch block
+				        	out.println("Por favor ingrese informacion correcta o regrese al inicio.");
+							e.printStackTrace();
+						}				      
+			        	out.println("</table>");
+			        	out.println("</font>");
+			        	out.println("</center>");
+			        	out.println("<br>");
+			    
+			        }
+
+		        	out.println("<br>");
+		        	out.println("<br>");
 			        out.println("<input type=submit>");
 			        out.println("</form>");
+			        out.println("<butt>");
+		        	out.println("<a href='index.html'>Regresar a Inicio</a>");
+		        	out.println("</butt>");
 		        out.println("<header>");
 	        out.println("</body>");
         out.println("</html>");
