@@ -1,0 +1,2701 @@
+﻿[
+  {
+    "n": {
+"identity": 0,
+"labels": [],
+"properties": {
+"Género": "Trap",
+"Album": "Revenge",
+"Song": "Look At Me!",
+"Artista": "XXXTentacion",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 1,
+"labels": [],
+"properties": {
+"Album": "Hexada (album)",
+"Género": "Trap",
+"Song": "Hexada",
+"Artista": "GHOSTMANE",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 2,
+"labels": [],
+"properties": {
+"Género": "Trap",
+"Album": "Born This Way(Single)",
+"Song": "Born This Way",
+"Artista": "Bad Hop",
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "Género"
+      ],
+"properties": {
+"Género": "Indie"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Bellyache (Single)",
+"Song": "Bellyache",
+"Artista": "Billie Eilish",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 5,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Mobb Life",
+"Song": "Asian Doll",
+"Artista": "Bad Hop",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 6,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2013
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 7,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "AM",
+"Song": "Do I Wanna Know?",
+"Artista": "Arctic Monkeys",
+"Año": 2013
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "American IV: The Man Comes Around",
+"Song": "Hurt",
+"Artista": "Johnny Cash",
+"Año": 2002
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "Género"
+      ],
+"properties": {
+"Género": "Blues"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 10,
+"labels": [],
+"properties": {
+"Album": "Save My Soul (Album)",
+"Género": "Blues",
+"Song": "Save My Soul",
+"Artista": "Big Bad Voodoo Daddy",
+"Año": 2003
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 11,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2003
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 12,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "In the Zone",
+"Song": "Toxic",
+"Artista": "Britney Spears",
+"Año": 2003
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [],
+"properties": {
+"Album": 17,
+"Género": "Trap",
+"Song": "Jocelyn Flores",
+"Artista": "XXXTentacion",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 14,
+"labels": [],
+"properties": {
+"Album": "Sleeping Through the War",
+"Género": "Rock",
+"Song": "Bulls",
+"Artista": "All Them Witches",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 15,
+"labels": [
+        "Género"
+      ],
+"properties": {
+"Género": "Rock"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 16,
+"labels": [],
+"properties": {
+"Album": "Senderos de traición",
+"Género": "Rock",
+"Song": "Maldito Duende",
+"Artista": "Héroes del Silencio",
+"Año": 1990
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 17,
+"labels": [],
+"properties": {
+"Album": "Wolf Totem (Single)",
+"Género": "Rock",
+"Song": "Wolf Totem",
+"Artista": "The HU",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 18,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Singin' the Blues",
+"Song": "Sweet Little Angel",
+"Artista": "B. B. King",
+"Año": 1956
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 19,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Downhearted Blues (Single)",
+"Song": "Downhearted Blues",
+"Artista": "Bessie Smith",
+"Año": 1922
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 20,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Moanin' in the Moonlight",
+"Song": "Moanin' for My Baby",
+"Artista": "Howlin' Wolf",
+"Año": 1959
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 21,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Cross Road Blues(Single)",
+"Song": "Cross Road Blues",
+"Artista": "Robert Johnson",
+"Año": 1937
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 22,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Hotline Bling (Single)",
+"Song": "Hotline Bling",
+"Artista": "Drake",
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 23,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 24,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Imaginary Appalachia",
+"Song": "Sleeping on the Blacktop",
+"Artista": "Colter Wall",
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 25,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Fathers and Sons",
+"Song": "Can't Lose What You Ain't Never Had",
+"Artista": "Muddy Waters",
+"Año": 1969
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 26,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 1969
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 27,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Completely Well",
+"Song": "The Thrill Is Gone",
+"Artista": "B. B. King",
+"Año": 1969
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 28,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Imaginary Appalachia",
+"Song": "The Devil Wears a Suit And a Tie",
+"Artista": "Colter Wall",
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 29,
+"labels": [],
+"properties": {
+"Album": "Yung Rich Nation",
+"Género": "Trap",
+"Song": "Memoirs",
+"Artista": "Migos",
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 30,
+"labels": [],
+"properties": {
+"Género": "Metal",
+"Album": "Ghost Reveries",
+"Song": "Ghost of Perdition",
+"Artista": "Opeth",
+"Año": 2005
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 31,
+"labels": [],
+"properties": {
+"Album": "Rolling Papers",
+"Género": "Rap",
+"Song": "Black and Yellow",
+"Artista": "Wiz Khalifa",
+"Año": 2010
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 32,
+"labels": [],
+"properties": {
+"Album": "Rize of the Fenix",
+"Género": "Rock",
+"Song": "Roadie",
+"Artista": "Tenacious D",
+"Año": 2012
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 33,
+"labels": [],
+"properties": {
+"Album": "My Head Is an Animal",
+"Género": "Indie",
+"Song": "Dirty Paws",
+"Artista": "Of Monsters and Men",
+"Año": 2012
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 34,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "AM",
+"Song": "Arabella",
+"Artista": "Arctic Monkeys",
+"Año": 2013
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 35,
+"labels": [],
+"properties": {
+"Género": "Rock",
+"Album": "Popestar",
+"Song": "Square Hammer",
+"Artista": "Ghost",
+"Año": 2016
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 36,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2016
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 37,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Lost on You (album)",
+"Song": "Lost on You",
+"Artista": "LP",
+"Año": 2016
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 38,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Heart-Shaped Scar",
+"Song": "Kiss It All Goodbye",
+"Artista": "LP",
+"Año": 2001
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 39,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2001
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 40,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Is This It",
+"Song": "Hard To Explain",
+"Artista": "The Strokes",
+"Año": 2001
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 41,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "No Time To Die (Single)",
+"Song": "No Time To Die",
+"Artista": "Billie Eilish",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 42,
+"labels": [],
+"properties": {
+"Género": "Metal",
+"Album": "Emblas Saga",
+"Song": "Chain Breaker",
+"Artista": "Brothers of Metal",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 43,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Encore",
+"Song": "Mockingbird",
+"Artista": "Eminem",
+"Año": 2004
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 44,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "The Doggfather",
+"Song": "Doggyland",
+"Artista": "Snoop Dogg",
+"Año": 1996
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 45,
+"labels": [],
+"properties": {
+"Album": "Big Willie Style",
+"Género": "Rap",
+"Song": "Just The Two Of Us",
+"Artista": "Will Smith",
+"Año": 1997
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 46,
+"labels": [],
+"properties": {
+"Album": "Holy Diver (album)",
+"Género": "Rock",
+"Song": "Holy Diver",
+"Artista": "Dio",
+"Año": 1983
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 47,
+"labels": [],
+"properties": {
+"Género": "Rock",
+"Album": "Black Sabbath (album)",
+"Song": "N.I.B.",
+"Artista": "Black Sabbath",
+"Año": 1970
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 48,
+"labels": [],
+"properties": {
+"Album": "If I were a Boy (single)",
+"Género": "Pop",
+"Song": "If I were a Boy",
+"Artista": "Beyoncé",
+"Año": 2008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 49,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Arrival",
+"Song": "Dancing Queen",
+"Artista": "ABBA",
+"Año": 1976
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 50,
+"labels": [],
+"properties": {
+"Album": "Good Girl Gone Bad",
+"Género": "Pop",
+"Song": "Umbrella",
+"Artista": "Rihanna",
+"Año": 2007
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 51,
+"labels": [],
+"properties": {
+"Album": "The Fame Monster",
+"Género": "Pop",
+"Song": "Telephone",
+"Artista": "Lady Gaga",
+"Año": 2008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 52,
+"labels": [],
+"properties": {
+"Album": "The Fame Monster",
+"Género": "Pop",
+"Song": "Alejandro",
+"Artista": "Lady Gaga",
+"Año": 2008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 53,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "Dark Country 3",
+"Song": "Grave Digger",
+"Artista": "Blues Saraceno",
+"Año": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 54,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "Jolene (single)",
+"Song": "Jolene",
+"Artista": "Dolly Parton",
+"Año": 1974
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 55,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "Memorial Album",
+"Song": "Hey Good Lookin' ",
+"Artista": "Hank Williams",
+"Año": 1953
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 56,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "I Walk the Line (album)",
+"Song": "I Walk the Line",
+"Artista": "Johnny Cash",
+"Año": 1964
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 57,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "Lovesick Blues (Single)",
+"Song": "Lovesick Blues",
+"Artista": "Hank Williams",
+"Año": 1952
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 58,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "Poems, Prayers and Promises",
+"Song": "Country Roads",
+"Artista": "John Denver",
+"Año": 1971
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 59,
+"labels": [],
+"properties": {
+"Género": "Punk",
+"Album": "Never Mind the Bollocks, Here's the Sex Pistols",
+"Song": "God Save The Queen",
+"Artista": "Sex Pistols",
+"Año": 1977
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 60,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 1977
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 61,
+"labels": [],
+"properties": {
+"Género": "Punk",
+"Album": "Never Mind the Bollocks, Here's the Sex Pistols",
+"Song": "Anarachy In The UK",
+"Artista": "Sex Pistols",
+"Año": 1977
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 62,
+"labels": [],
+"properties": {
+"Album": "Road To Ruin",
+"Género": "Punk",
+"Song": "I Wanna Be  Sedated",
+"Artista": "Ramones",
+"Año": 1978
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 63,
+"labels": [],
+"properties": {
+"Género": "Punk",
+"Album": "Ace Of Spades (album)",
+"Song": "Ace Of Spades",
+"Artista": "Motörhead",
+"Año": 1980
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 64,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 1980
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 65,
+"labels": [],
+"properties": {
+"Género": "Rock",
+"Album": "Back In Black  (album)",
+"Song": "Shoot to Thrill",
+"Artista": "AC/DC",
+"Año": 1980
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 66,
+"labels": [],
+"properties": {
+"Album": "Ordinary Man (album)",
+"Género": "Rock",
+"Song": "Scary Little Green Men",
+"Artista": "Ozzy Osbourne",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 67,
+"labels": [],
+"properties": {
+"Album": "Marilyn Manson (album)",
+"Género": "Trap",
+"Song": "Marilyn Manson",
+"Artista": "La Metamorfosis del Vampiro",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 68,
+"labels": [],
+"properties": {
+"Album": "Yung Rich Nation",
+"Género": "Trap",
+"Song": "Migos",
+"Artista": "Migos",
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 69,
+"labels": [],
+"properties": {
+"Album": "Torches",
+"Género": "Indie",
+"Song": "Pumped Up Kicks",
+"Artista": "Foster the People",
+"Año": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 70,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 71,
+"labels": [],
+"properties": {
+"Género": "Metal",
+"Album": "Unholy Cross",
+"Song": "Moria",
+"Artista": "Bloodbound",
+"Año": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 72,
+"labels": [
+        "Género"
+      ],
+"properties": {
+"Género": "Metal"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 73,
+"labels": [],
+"properties": {
+"Album": "Torture",
+"Género": "Metal",
+"Song": "Scourge of Iron",
+"Artista": "Cannibal Corpse",
+"Año": 2012
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 74,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2012
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 75,
+"labels": [],
+"properties": {
+"Album": "My Head Is an Animal",
+"Género": "Indie",
+"Song": "Little Talks",
+"Artista": "Of Monsters and Men",
+"Año": 2012
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 76,
+"labels": [],
+"properties": {
+"Género": "Metal",
+"Album": "Rise Of The Dragon Empire",
+"Song": "Balerion",
+"Artista": "Bloodbound",
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 77,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 78,
+"labels": [],
+"properties": {
+"Género": "Metal",
+"Album": "Berserker",
+"Song": "Ironside",
+"Artista": "Amon Amarth",
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 79,
+"labels": [],
+"properties": {
+"Género": "Metal",
+"Album": "Slipknot",
+"Song": "Spit It Out",
+"Artista": "Slipknot",
+"Año": 1999
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 80,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 1999
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 81,
+"labels": [],
+"properties": {
+"Album": "Famous Monsters",
+"Género": "Punk",
+"Song": "Saturday Night",
+"Artista": "Misfits",
+"Año": 1999
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 82,
+"labels": [],
+"properties": {
+"Género": "Metal",
+"Album": "Pantheon Of The Nightside Gods",
+"Song": "Cathedrals Of Mourning",
+"Artista": "Belzebubs",
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 83,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Thank U, Next",
+"Song": "thank u next",
+"Artista": "Ariana Grande",
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 84,
+"labels": [
+        "Género"
+      ],
+"properties": {
+"Género": "Pop"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 85,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Born This Way (album)",
+"Song": "Judas",
+"Artista": "Lady Gaga",
+"Año": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 86,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Born This Way (album)",
+"Song": "Born This Way",
+"Artista": "Lady Gaga",
+"Año": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 87,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Thank U, Next",
+"Song": "7 rings",
+"Artista": "Ariana Grande",
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 88,
+"labels": [],
+"properties": {
+"Género": "Metal",
+"Album": "Incipit Satan (album)",
+"Song": "Incipit Satan",
+"Artista": "Gorgoroth",
+"Año": 2000
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 89,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2000
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 90,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "The Marshall Mathers LP",
+"Song": "Stan",
+"Artista": "Eminem",
+"Año": 2000
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 91,
+"labels": [
+        "Género"
+      ],
+"properties": {
+"Género": "Rap"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 92,
+"labels": [],
+"properties": {
+"Album": "Forgot about Dre(Single)",
+"Género": "Rap",
+"Song": "Forgot about Dre",
+"Artista": "Dr. Dre, Eminem",
+"Año": 1999
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 93,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "American III: Solitary Man",
+"Song": "I won't back down",
+"Artista": "Johnny Cash",
+"Año": 2000
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 94,
+"labels": [
+        "Género"
+      ],
+"properties": {
+"Género": "Country"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 95,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "Who I Am",
+"Song": "Outlaws & Outsiders",
+"Artista": "Cory Marks",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 96,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 97,
+"labels": [],
+"properties": {
+"Album": "YHLQMDLG",
+"Género": "Trap",
+"Song": "25/8",
+"Artista": "Bad Bunny",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 98,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2002
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 99,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "American IV: The Man Comes Around",
+"Song": "Big Iron",
+"Artista": "Johnny Cash",
+"Año": 2002
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 100,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "This One's for You",
+"Song": "Hurricane",
+"Artista": "Luke Combs",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 101,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 102,
+"labels": [],
+"properties": {
+"Género": "Trap",
+"Album": "Culture",
+"Song": "T-Shirt",
+"Artista": "Migos",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 103,
+"labels": [],
+"properties": {
+"Album": "Cartel de Santa, Vol. 4",
+"Género": "Rap",
+"Song": "Cosas de la Vida",
+"Artista": "Cartel de Santa",
+"Año": 2008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 104,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 105,
+"labels": [],
+"properties": {
+"Género": "Punk",
+"Album": "Anatomy of Reanimation Volume#1",
+"Song": "Pretty in a Casket",
+"Artista": "Blitzkid",
+"Año": 2008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 106,
+"labels": [
+        "Género"
+      ],
+"properties": {
+"Género": "Punk"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 107,
+"labels": [],
+"properties": {
+"Género": "Punk",
+"Album": "Brain Drain",
+"Song": "Pet Semetary",
+"Artista": "Ramones",
+"Año": 1989
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 108,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 1989
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 109,
+"labels": [],
+"properties": {
+"Género": "Rock",
+"Album": "Journeyman",
+"Song": "Old Love",
+"Artista": "Eric Clapton",
+"Año": 1989
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 110,
+"labels": [],
+"properties": {
+"Album": "Me against The World",
+"Género": "Rap",
+"Song": "Dear Mama",
+"Artista": "2Pac",
+"Año": 1994
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 111,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 1994
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 112,
+"labels": [],
+"properties": {
+"Género": "Punk",
+"Album": "Dookie",
+"Song": "Basket Case",
+"Artista": "Green Day",
+"Año": 1994
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 113,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2004
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 114,
+"labels": [],
+"properties": {
+"Género": "Punk",
+"Album": "American Idiot (album)",
+"Song": "American Idiot",
+"Artista": "Green Day",
+"Año": 2004
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 115,
+"labels": [],
+"properties": {
+"Album": "Walk Among Us",
+"Género": "Punk",
+"Song": "I Turned into a Martian",
+"Artista": "Misfits",
+"Año": 1981
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 116,
+"labels": [
+        "Género"
+      ],
+"properties": {
+"Género": "Trap"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 117,
+"labels": [],
+"properties": {
+"Género": "Trap",
+"Album": "BAD HOP HOUSE",
+"Song": "Kawasaki Drift",
+"Artista": "Bad Hop",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 118,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 119,
+"labels": [],
+"properties": {
+"Género": "Metal",
+"Album": "I Loved You at Your Darkest",
+"Song": "Bartzabel",
+"Artista": "Behemoth",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 120,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Eminem",
+"Song": "Lucky You",
+"Artista": "Eminem",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 121,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Music To Be Murdered By - Side A",
+"Song": "Godzilla",
+"Artista": "Eminem",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 122,
+"labels": [],
+"properties": {
+"Género": "Rock",
+"Album": "The Black",
+"Song": "I Wont Give In",
+"Artista": "Asking Alaska",
+"Año": 2016
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 123,
+"labels": [],
+"properties": {
+"Album": "Expectativas",
+"Género": "Rock",
+"Song": "Parecemos Tontos",
+"Artista": "Bunbury",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 124,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Butter",
+"Song": "Butter",
+"Artista": "BTS",
+"Año": 2021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 125,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Yellow Hearts",
+"Song": "Yellow Hearts",
+"Artista": "Ant Saunders",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 126,
+"labels": [],
+"properties": {
+"Género": "Rock",
+"Album": "American Idiot",
+"Song": "Boulevard of Broken Dreams",
+"Artista": "Green Day",
+"Año": 2004
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 127,
+"labels": [],
+"properties": {
+"Album": "In Utero",
+"Género": "Rock",
+"Song": "Heart Shaped Box",
+"Artista": "Nirvana",
+"Año": 2000
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 128,
+"labels": [],
+"properties": {
+"Album": "Voz y Exitos",
+"Género": "Pop",
+"Song": "Tu No Eres Para Mi",
+"Artista": "Fanny Lu",
+"Año": 2008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 129,
+"labels": [],
+"properties": {
+"Album": "Palabras del Silencio",
+"Género": "Pop",
+"Song": "No Me Doy Por Vencido",
+"Artista": "Luis Fonsi",
+"Año": 2008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 130,
+"labels": [],
+"properties": {
+"Album": "Future Nostalgia",
+"Género": "Pop",
+"Song": "Physical",
+"Artista": "Dua Lipa",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 131,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 132,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2010
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 133,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2009
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 134,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2007
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 135,
+"labels": [
+        "año"
+      ],
+"properties": {
+"Año": 2005
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 136,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Move Ya Hips",
+"Song": "Move Ya Hips",
+"Artista": "A$AP Ferg",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 137,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Boss Man",
+"Song": "Not Sorry",
+"Artista": "Rich The Kid",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 138,
+"labels": [],
+"properties": {
+"Album": "Control The Streets, Vol. I",
+"Género": "Rap",
+"Song": "She For Keeps",
+"Artista": "Quality Control",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 139,
+"labels": [],
+"properties": {
+"Album": "The Story of Don",
+"Género": "Rap",
+"Song": "No Mercy",
+"Artista": "Don Luka",
+"Año": 2021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 140,
+"labels": [],
+"properties": {
+"Album": "Choppas",
+"Género": "Rap",
+"Song": "Whole Lotta Choppas",
+"Artista": "Sada Baby",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 141,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "A Better Time",
+"Song": "Holy Ground",
+"Artista": "Davido",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 142,
+"labels": [],
+"properties": {
+"Album": "Rebel Heart",
+"Género": "Pop",
+"Song": "Bitch Im Madonna",
+"Artista": "Madonna",
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 143,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Sweetener",
+"Song": "God Is A Woman",
+"Artista": "Ariana Grande",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 144,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Artpop",
+"Song": "Artpop",
+"Artista": "Lady Gaga",
+"Año": 2013
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 145,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Dreams Worth More Than Money",
+"Song": "Bad For You",
+"Artista": "Meek Mill",
+"Año": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 146,
+"labels": [],
+"properties": {
+"Album": "Sour",
+"Género": "Pop",
+"Song": "Good 4 U",
+"Artista": "Olivia Rodrigo",
+"Año": 2021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 147,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Sour",
+"Song": "Drivers License",
+"Artista": "Olivia Rodrigo",
+"Año": 2021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 148,
+"labels": [],
+"properties": {
+"Album": "B&B",
+"Género": "Rap",
+"Song": "Ball for Me",
+"Artista": "Post Malone",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 149,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "What That Speed Bout?!",
+"Song": "What That Speed Bout?!",
+"Artista": "Mike Will Made It",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 150,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Hear No Evil",
+"Song": "Anybody",
+"Artista": "Young Thug",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 151,
+"labels": [],
+"properties": {
+"Album": "Double Dutchess",
+"Género": "Pop",
+"Song": "You Already Know",
+"Artista": "Fergie",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 152,
+"labels": [],
+"properties": {
+"Album": "Prism",
+"Género": "Pop",
+"Song": "Roar",
+"Artista": "Katy Perry",
+"Año": 2013
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 153,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "After School",
+"Song": "Fire Drill",
+"Artista": "Melanie Martinez",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 154,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Hot Pink",
+"Song": "Say So",
+"Artista": "Doja Cat",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 155,
+"labels": [],
+"properties": {
+"Album": "DC4",
+"Género": "Pop",
+"Song": "Kiss Me More",
+"Artista": "Doja Cat",
+"Año": 2021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 156,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Hot Pink",
+"Song": "Streets",
+"Artista": "Doja Cat",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 157,
+"labels": [],
+"properties": {
+"Album": "Colgando En Tus Manos",
+"Género": "Pop",
+"Song": "Colgando En Tus Manos",
+"Artista": "Carlos Baute",
+"Año": 2008
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 158,
+"labels": [],
+"properties": {
+"Album": "Mis Favoritas",
+"Género": "Pop",
+"Song": "Color Esperanza",
+"Artista": "Diego Torres",
+"Año": 2001
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 159,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Thats What I Heard",
+"Song": "This Man",
+"Artista": "Robert Cray",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 160,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Self Made Man",
+"Song": "Holy Ghost Fire",
+"Artista": "Larkin Poe",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 161,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "No Place To Go",
+"Song": "No Place to Go",
+"Artista": "Kirk Fletcher",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 162,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Smile",
+"Song": "Tucked",
+"Artista": "Katy Perry",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 163,
+"labels": [],
+"properties": {
+"Album": "Sour",
+"Género": "Pop",
+"Song": "Enough For You",
+"Artista": "Olivia Rodrigo",
+"Año": 2021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 164,
+"labels": [],
+"properties": {
+"Album": "Blue Neighborhood",
+"Género": "Pop",
+"Song": "Fools",
+"Artista": "Troye Sivan",
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 165,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Kid Krow",
+"Song": "Maniac",
+"Artista": "Conan Gray",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 166,
+"labels": [],
+"properties": {
+"Album": "Teatro d'ira - Vol. I",
+"Género": "Rock",
+"Song": "Zitti e buoni",
+"Artista": "Måneskin",
+"Año": 2021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 167,
+"labels": [],
+"properties": {
+"Album": "Depression Cherry",
+"Género": "Pop",
+"Song": "Wildflower",
+"Artista": "Black House",
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 168,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Birthdays",
+"Song": "You",
+"Artista": "Keaton Henson",
+"Año": 2013
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 169,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Mix Pa Llorar en Tu Cuarto",
+"Song": "Fuentes de Ortiz",
+"Artista": "Ed Maverick",
+"Año": 2013
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 170,
+"labels": [],
+"properties": {
+"Album": "Music To Be Murdered By - Side B",
+"Género": "Rap",
+"Song": "Gnat",
+"Artista": "Eminem",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 171,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Torches",
+"Song": "Houdini",
+"Artista": "Foster The People",
+"Año": 2011
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 172,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Spoiler",
+"Song": "Vas A Quedarte",
+"Artista": "Aitana",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 173,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Dosis",
+"Song": "Dosis",
+"Artista": "Dvicio",
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 174,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Speak Your Mind",
+"Song": "2002",
+"Artista": "Anne-Marie",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 175,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Queen",
+"Song": "Barbie Dreams",
+"Artista": "Nicki Minaj",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 176,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Pink Friday Roman Reloaded",
+"Song": "Masquerade",
+"Artista": "Nicki Minaj",
+"Año": 2012
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 177,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Pink Friday",
+"Song": "Im The Best",
+"Artista": "Nicki Minaj",
+"Año": 2010
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 178,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Pink Friday",
+"Song": "Romans Revenge",
+"Artista": "Nicki Minaj",
+"Año": 2010
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 179,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Pink Friday",
+"Song": "Did It On Em",
+"Artista": "Nicki Minaj",
+"Año": 2010
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 180,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Pink Friday",
+"Song": "Right Through Me",
+"Artista": "Nicki Minaj",
+"Año": 2010
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 181,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Lemon Drop",
+"Song": "Lemon Drop",
+"Artista": "Absofacto",
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 182,
+"labels": [],
+"properties": {
+"Album": "Teenage Dream",
+"Género": "Pop",
+"Song": "E.T.",
+"Artista": "Katy Perry",
+"Año": 2010
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 183,
+"labels": [],
+"properties": {
+"Album": "Teenage Dream",
+"Género": "Pop",
+"Song": "The One That Got Away",
+"Artista": "Katy Perry",
+"Año": 2010
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 184,
+"labels": [],
+"properties": {
+"Album": "Teenage Dream",
+"Género": "Pop",
+"Song": "Last Friday Night",
+"Artista": "Katy Perry",
+"Año": 2010
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 185,
+"labels": [],
+"properties": {
+"Album": "Prism",
+"Género": "Pop",
+"Song": "Unconditionally",
+"Artista": "Katy Perry",
+"Año": 2013
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 186,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Sweetener",
+"Song": "Raindrops",
+"Artista": "Ariana Grande",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 187,
+"labels": [],
+"properties": {
+"Género": "Trap",
+"Album": "Kripy Kush",
+"Song": "Kripy Kush",
+"Artista": "Bad Bunny",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 188,
+"labels": [],
+"properties": {
+"Album": "Queen",
+"Género": "Pop",
+"Song": "Come See About Me",
+"Artista": "Nicki Minaj",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 189,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Queen",
+"Song": "Chun Swap",
+"Artista": "Nicki Minaj",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 190,
+"labels": [],
+"properties": {
+"Género": "Rap",
+"Album": "Pinkprint",
+"Song": "All Things Go",
+"Artista": "Nicki Minaj",
+"Año": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 191,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Pinkprint",
+"Song": "I Lied",
+"Artista": "Nicki Minaj",
+"Año": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 192,
+"labels": [],
+"properties": {
+"Album": "Pinkprint",
+"Género": "Rap",
+"Song": "Get On Your Knees",
+"Artista": "Nicki Minaj",
+"Año": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 193,
+"labels": [],
+"properties": {
+"Género": "Trap",
+"Album": "Pinkprint",
+"Song": "Want Some More",
+"Artista": "Nicki Minaj",
+"Año": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 194,
+"labels": [],
+"properties": {
+"Album": "Pinkprint",
+"Género": "Trap",
+"Song": "Four Door Aventador",
+"Artista": "Nicki Minaj",
+"Año": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 195,
+"labels": [],
+"properties": {
+"Album": "Pinkprint",
+"Género": "Pop",
+"Song": "The Night Is Still Young",
+"Artista": "Nicki Minaj",
+"Año": 2014
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 196,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Rainbow",
+"Song": "Woman",
+"Artista": "Kesha",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 197,
+"labels": [],
+"properties": {
+"Album": "Rainbow",
+"Género": "Pop",
+"Song": "Hymn",
+"Artista": "Kesha",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 198,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Rainbow",
+"Song": "Praying",
+"Artista": "Kesha",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 199,
+"labels": [],
+"properties": {
+"Género": "Blues",
+"Album": "Rainbow",
+"Song": "Boogie Feet",
+"Artista": "Kesha",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 200,
+"labels": [],
+"properties": {
+"Album": "Rainbow",
+"Género": "Rock",
+"Song": "Eagles of Death Metal",
+"Artista": "Kesha",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 201,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Rainbow",
+"Song": "Hunt You Down",
+"Artista": "Kesha",
+"Año": 2017
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 202,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Electric",
+"Song": "Electric",
+"Artista": "Katy Perry",
+"Año": 2021
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 203,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "1950",
+"Song": "1950",
+"Artista": "King Princess",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 204,
+"labels": [],
+"properties": {
+"Album": "Future Nostalgia",
+"Género": "Pop",
+"Song": "Love Again",
+"Artista": "Dua Lipa",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 205,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Dynamite",
+"Song": "Dynamite",
+"Artista": "BTS",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 206,
+"labels": [],
+"properties": {
+"Album": "Heaven On Hold",
+"Género": "Indie",
+"Song": "The Way You Say Hello",
+"Artista": "The Backseat Lovers",
+"Año": 2015
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 207,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "Evermore",
+"Song": "Willow",
+"Artista": "Taylor Swift",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 208,
+"labels": [],
+"properties": {
+"Género": "Pop",
+"Album": "Fever",
+"Song": "Fever",
+"Artista": "Dua Lipa",
+"Año": 2020
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 209,
+"labels": [],
+"properties": {
+"Género": "Indie",
+"Album": "KP",
+"Song": "Watching My Phone",
+"Artista": "King Princess",
+"Año": 2019
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 210,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "Mistery",
+"Song": "The River ",
+"Artista": "Tatiana Smith ",
+"Año": 2016
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 211,
+"labels": [],
+"properties": {
+"Género": "Trap",
+"Album": "Can't stop me",
+"Song": "Gone and swear",
+"Artista": "Heronimox",
+"Año": 2018
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 212,
+"labels": [],
+"properties": {
+"Género": "Country",
+"Album": "Back home",
+"Song": "Excuse me",
+"Artista": "Rebecca Johnson ",
+"Año": 2003
+      }
+    }
+  }
+]
