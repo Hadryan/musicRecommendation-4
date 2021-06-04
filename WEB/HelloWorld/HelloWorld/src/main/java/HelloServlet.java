@@ -68,22 +68,19 @@ public class HelloServlet extends HttpServlet {
 			        }else {
 			        	try ( EmbeddedNeo4j greeter = new EmbeddedNeo4j( "bolt://localhost:7687", "neo4j", "OnikaTanya10!" ) )
 				        {
-			        		String nombre2 = nombre1.toLowerCase();
-			        		String cantante2 = cantante1.toLowerCase();
+			        		
+	
 			        		String genero2 = genero1.toLowerCase();
-			        		String album2 = album1.toLowerCase();
 			        		
-			        		
-					        String nombre = nombre2.substring(0, 1).toUpperCase() + nombre2.substring(1);
-					        String cantante = cantante2.substring(0, 1).toUpperCase() + cantante2.substring(1);
+					        String cantante = cantante1.substring(0, 1).toUpperCase() + cantante1.substring(1);
 					        String genero = genero2.substring(0, 1).toUpperCase() + genero2.substring(1);
-					        String album = album2.substring(0, 1).toUpperCase() + album2.substring(1);
+					        String album = album1.substring(0, 1).toUpperCase() + album1.substring(1);
 					        
 					        int year4 = Integer.parseInt(ano);
 					        
 					        if(genero.equals("Indie") || genero.equals("Blues") || genero.equals("Rock") || genero.equals("Metal") || genero.equals("Pop") || genero.equals("Rap") || genero.equals("Country") || genero.equals("Punk") || genero.equals("Trap")) {
 					        	if(year4 > 1999 && year4 < 2022) {
-					        		String a = greeter.printGreeting(album,nombre, cantante , genero, ano);
+					        		String a = greeter.printGreeting(album,nombre1, cantante , genero, ano);
 								 	out.println("<br>");
 								 	out.println(a);
 								 	out.println("<br>");

@@ -94,8 +94,6 @@ public class HelloServlet2 extends HttpServlet {
 					        int year4 = Integer.parseInt(ano);
 					        String genero2 = genero1.toLowerCase();
 					        String genero = genero2.substring(0, 1).toUpperCase() + genero2.substring(1);
-					        out.println(genero);
-					        
 					        
 					        if(genero.equals("Indie") || genero.equals("Blues") || genero.equals("Rock") || genero.equals("Metal") || genero.equals("Pop") || genero.equals("Rap") || genero.equals("Country") || genero.equals("Punk") || genero.equals("Trap")) {
 					        	if(year4 > 1999 && year4 < 2022) {
