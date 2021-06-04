@@ -92,8 +92,9 @@ public class HelloServlet2 extends HttpServlet {
 					        out.println("<font face='calibri' size='3' color='#ffffff'>");
 					        
 					        int year4 = Integer.parseInt(ano);
-					      
-					        String genero = genero1.substring(0, 1).toUpperCase() + genero1.substring(1);
+					        String genero2 = genero1.toLowerCase();
+					        String genero = genero2.substring(0, 1).toUpperCase() + genero2.substring(1);
+					        out.println(genero);
 					        
 					        
 					        if(genero.equals("Indie") || genero.equals("Blues") || genero.equals("Rock") || genero.equals("Metal") || genero.equals("Pop") || genero.equals("Rap") || genero.equals("Country") || genero.equals("Punk") || genero.equals("Trap")) {

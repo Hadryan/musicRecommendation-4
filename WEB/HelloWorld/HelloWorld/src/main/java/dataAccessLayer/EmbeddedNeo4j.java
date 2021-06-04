@@ -147,51 +147,12 @@ public class EmbeddedNeo4j implements AutoCloseable{
                 	 }
                 	 
                 	 
-                	 
-                	 /*if (year.equals(null))
-                	 {
-                		 result = tx.run( "match (n)"
-                           		+ " where n.`Género` = \""+genre+"\" AND rand() < 0.4"
-                           		+ " return n.Song, n.Artista  limit 10");
-                	 }
-                	 else if (genre.equals(null))
-                	 {
-                		 result = tx.run( "match (n)"
-                           		+ " where n.Año >= "+year1+" AND n.Año <= "+year2+" AND rand() < 0.4"
-                           		+ " return n.Song, n.Artista  limit 10");
-                	 }
-                	 else
-                	 {
-                		 result = tx.run( "match (n)"
-                          		+ " where n.Año >= "+year1+" AND n.Año <= "+year2+" AND n.`Género` = \""+genre+"\" AND rand() < 0.4"
-                          		+ " return n.Song, n.Artista  limit 10");
-                	 }*/
-                     
+                	
                      
                      LinkedList<String> myactors = new LinkedList<String>();
                      List<Record> registros = result.list();
                      for (int i = 0; i < registros.size(); i++) {
-                    	 /*String a = registros.get(i).toString();
-                    	 int pos1 = 0;
-                         int pos2 = 0;
-                         for (int j = 8; i < a.length(); i++)
-                         {
-                             String temp = a.substring(i-8, i);
-                             if(temp.equals("n.Artist"))
-                             {
-                                 pos1 = i; 
-                             }
-                         }
-                         for (int j = 5; i < a.length(); i++)
-                         {
-                             String temp = a.substring(i-5, i);
-                             if(temp.equals(".Song"))
-                             {
-                                 pos2 = i+3; 
-                             }
-                         }
-                         String r = "Canción: " + a.substring(pos2, pos1-11) + "  Artista: " + a.substring(pos1+4, a.length()-3) +  "   ";
-                    	 myactors.add(r);*/
+                    	 
                     	 myactors.add(registros.get(i).toString());
                      }
                      
